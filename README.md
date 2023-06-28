@@ -1,6 +1,6 @@
 # Login-Page
 
-Mobile Visual:
+Mobile Visual:<br>
 ![loginbluepagemobile375px](https://github.com/Kauaguarinogabriell/Login-Page/assets/111528352/4be6b401-f8b5-4f4f-9a1a-6f02f68154d3)
 
 
