@@ -1,5 +1,11 @@
 # Login-Page
-![Screenshot from 2022-12-13 14-44-22](https://user-images.githubusercontent.com/111528352/207406534-9b5e28fa-164e-4ada-a80e-330e2fa24de5.png)
+
+## Mobile Visual:<br>
+![loginbluepagemobile375px](https://github.com/Kauaguarinogabriell/Login-Page/assets/111528352/4be6b401-f8b5-4f4f-9a1a-6f02f68154d3)
 
 
-online page link: https://kauaguarinogabriell.github.io/Login-Page/
+## Tablet And Desktop visual:
+![loginbluepagedesktop1024pxx](https://github.com/Kauaguarinogabriell/Login-Page/assets/111528352/d8125cdf-bd26-43a4-a0ae-ed81c30b5f2b)
+
+
+### online page link: https://kauaguarinogabriell.github.io/Login-Page/
