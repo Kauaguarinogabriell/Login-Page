@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-
-
-
 @media (min-width: 375px){
     body{
         margin: 0;
@@ -35,10 +32,9 @@
         align-items: center;
     }
 
-
     .login-card{
         background-color:rgb(90,99,104);
-        width: 50%;
+        width: 55%;
         height: 95%;
         border-radius: 20px;
         padding: 7% 7% 7% 7%;
@@ -98,7 +94,6 @@
     }
 }
 
-
 @media(min-width: 480px){
     .login-card{
         width: 40%;
@@ -106,15 +101,11 @@
         margin-bottom: 15%;
     }
     
-    
     .img{
         width: 20%;
         margin-bottom: 20%;
     }
 }
-
-
-
 
 @media(min-width: 600px){
     .login-card{
@@ -122,20 +113,14 @@
         height: 85%;
         margin-bottom: 10%;
     }
-    
-    
+        
     .img{
         width: 15%;
         margin-bottom: 15%;
     }
 }
 
-
-
-
-
 @media (min-width: 768px){
-
     .main-div{
         width: 100vw;
         height: 100vh;
@@ -162,7 +147,6 @@
         justify-content: center;
         align-items: center;
     }
-
 
     .login-card{
         background-color:rgb(90,99,104);
@@ -195,6 +179,7 @@
         outline: none;
         box-sizing: border-box
     }
+
     .textfield > label{
         color: #DCDCDC;
         margin-bottom: 5px
@@ -224,32 +209,18 @@
     }
 }
 
-
-
-
 @media (min-width: 1024px){
-
 .login-card{
         width: 45%;
     }
-
 }
-
-
-
-
-
-
-
-
-
-
 
 @media (min-width: 1200px){
     .login-card{
-        width: 30%;
-        height: 40%;
+        width: 35%;
+        height: 45%;
     }
+    
     .img{
         width: 60%;
     }
